@@ -1,4 +1,4 @@
-python2 2.py
+python2
 clear
 b='\033[1m'
 blue='\033[34;1m'
